@@ -1,0 +1,15 @@
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Sessiz_Harf_Dersi\bin\Debug\net6.0\Sessiz_Harf_Dersi.exe
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Sessiz_Harf_Dersi\bin\Debug\net6.0\Sessiz_Harf_Dersi.deps.json
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Sessiz_Harf_Dersi\bin\Debug\net6.0\Sessiz_Harf_Dersi.runtimeconfig.json
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Sessiz_Harf_Dersi\bin\Debug\net6.0\Sessiz_Harf_Dersi.dll
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Sessiz_Harf_Dersi\bin\Debug\net6.0\Sessiz_Harf_Dersi.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Sessiz_Harf_Dersi\obj\Debug\net6.0\Sessiz_Harf_Dersi.csproj.AssemblyReference.cache
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Sessiz_Harf_Dersi\obj\Debug\net6.0\Sessiz_Harf_Dersi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Sessiz_Harf_Dersi\obj\Debug\net6.0\Sessiz_Harf_Dersi.AssemblyInfoInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Sessiz_Harf_Dersi\obj\Debug\net6.0\Sessiz_Harf_Dersi.AssemblyInfo.cs
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Sessiz_Harf_Dersi\obj\Debug\net6.0\Sessiz_Harf_Dersi.csproj.CoreCompileInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Sessiz_Harf_Dersi\obj\Debug\net6.0\Sessiz_Harf_Dersi.dll
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Sessiz_Harf_Dersi\obj\Debug\net6.0\refint\Sessiz_Harf_Dersi.dll
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Sessiz_Harf_Dersi\obj\Debug\net6.0\Sessiz_Harf_Dersi.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Sessiz_Harf_Dersi\obj\Debug\net6.0\Sessiz_Harf_Dersi.genruntimeconfig.cache
+C:\Users\347264\Documents\Sites\csharp\c101_orta_seviyeler\Sessiz_Harf_Dersi\obj\Debug\net6.0\ref\Sessiz_Harf_Dersi.dll
